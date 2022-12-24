@@ -1,0 +1,40 @@
+
+#text1{
+    width: 40%;
+    padding-top: 8%;
+    font-family: 'Covered By Your Grace', cursive;
+    color: rgba(255, 166, 0, 0.785);
+
+}
+#imm{
+     /* background: linear-gradient(to bottom,#484545,rgb(114, 9, 9)); */
+     background:linear-gradient(to bottom, #06616300,#50577A), url(' https://img.freepik.com/free-photo/cute-stylish-children_155003-8330.jpg?w=996&t=st=1669702406~exp=1669703006~hmac=0b5226cb72d569fd8c1e68613b3ba2ff08d8a2d96dc777f14d4a9b6404c76312+') no-repeat center top fixed;     
+    background-size: cover;
+    height: 500px;
+}
+#imm1{
+    /* background: linear-gradient(to bottom,#484545,rgb(114, 9, 9)); */
+    background:linear-gradient(to bottom, #06616300,#50577A), url('https://img.freepik.com/free-photo/fashionable-pale-brunette-long-green-dress-black-jacket-sunglasses-standing-street-during-daytime-against-wall-light-city-building_197531-24468.jpg?size=626&ext=jpg&ga=GA1.2.1953163554.1665137541&semt=sph') no-repeat center top fixed;     
+   background-size: cover;
+   height: 500px;
+}
+#imm2{
+    /* background: linear-gradient(to bottom,#484545,rgb(114, 9, 9)); */
+    background:linear-gradient(to bottom, #06616300, #50577A), url('https://img.freepik.com/free-photo/portrait-smiling-beautiful-girl-her-handsome-boyfriend-laughing-happy-cheerful-couple-sunglasses_158538-5002.jpg?w=900&t=st=1669701548~exp=1669702148~hmac=056584432ca799bbcc1cdb23033a26df8d885d55078b9415d488dd66f3c1c7b4') no-repeat center top fixed;     
+   background-size: cover;
+   height: 500px;
+}
+#fad{
+    padding-top: 50%;
+}
+#bg{
+    /* font-family: 'Permanent Marker', cursive; */
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+    color:whitesmoke;
+    font-weight: bold;
+}
+#bg1{
+    font-family: 'Handlee', cursive;
+    font-size: 30px;
+}

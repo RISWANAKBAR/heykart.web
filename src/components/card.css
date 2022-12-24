@@ -1,0 +1,40 @@
+#card1{
+    width: 20%;
+    float: left;
+    background-color:#474E68;
+    color: white;
+    height:65px;
+    margin-left: 4%;
+    
+   
+    
+  font-family: 'Syne Mono', monospace;
+  margin-top: -2%;
+  box-shadow: rgba(128, 128, 128,.79) 5px 5px 5px;
+    
+
+}
+#card1:hover{
+    transform: scale(1.2);
+ box-shadow: 0 10px 20px #6B728E, 0 4px 8px #6B728E;
+
+ transition: 1.5s;
+
+}
+#hh12{
+    font-family: 'Caveat', cursive;
+  
+    
+}
+#cato{
+    background-color: transparent;
+    border: none;
+    font-size:1.8vw;
+ 
+}
+#cato:hover{
+    color: black;
+}
+#body1{
+    background-color: orange;
+}
